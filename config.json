@@ -1,0 +1,12 @@
+{
+    "main": {
+      "chats": [""],
+      "channels": [""]
+    },
+    "account1": {
+      "api_id": 1212,
+      "api_hash": "",
+      "phone": "",
+      "delay": 1
+    }
+  }
