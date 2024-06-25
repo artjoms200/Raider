@@ -15,7 +15,7 @@ Telegram RAIDER - это мощный инструмент для автомат
 
 2. Склонируйте репозиторий:
 
-> git clone https://github.com/artjoms200/Raider.git
+> git clone https://github.com/artlmrx1/Raider.git
 
 
 3. Установите зависимости:
